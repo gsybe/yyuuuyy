@@ -1,0 +1,11 @@
+[user]
+  name = gybe
+  email = gybe@example.com
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "gybe"]
+	url = git@github.com:gsybe/yyuuuyy.git
+	fetch = +refs/heads/*:refs/remotes/gybe/*
